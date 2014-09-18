@@ -1,4 +1,4 @@
-lists = new Meteor.Collection('lists');
+lists = new Meteor.Collection('lists'); //new list
 
 if (Meteor.isClient) {
   // counter starts at 0
